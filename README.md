@@ -29,9 +29,8 @@ Passionate about building scalable enterprise web systems, robust backend infras
 
 ### 📫 Let's Connect!
 
-* 💼 [LinkedIn](https://linkedin.com/in/yourprofile) - Professional Profile
-* 📧 Email: 3li.fahmi17@gmail.com
-* 📱 Contact Number: +967 772 595 765
+* 💼 [LinkedIn](https://linkedin.com/in/ali-fahmi) - Professional Profile
+* 📧 Email: 3li.bitmaster@gmail.com
 
 ### 🎯 Currently
 
